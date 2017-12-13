@@ -1,8 +1,3 @@
-
-
-
-
-    
 # Python program to determine if two trees are identical
  
 # A binary tree node has data, pointer to left child
