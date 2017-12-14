@@ -8,6 +8,7 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
+        # creates a new dictionary
         d = dict()
         for i in range(len(nums)):
             key = target - nums[i]
